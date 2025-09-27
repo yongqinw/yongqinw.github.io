@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* [PDF format](https://iihihiuh.github.io/yongqin.github.io//files/yongqin_wang_cv.pdf)
+* [PDF format](https://yongqinw.github.io/files/yongqin_wang_cv.pdf)
 
 
 Education
