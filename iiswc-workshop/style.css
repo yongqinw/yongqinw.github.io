@@ -8,7 +8,3 @@ summary:hover {
   background: #f1f5f9;   /* light hover background */
   box-shadow: 0 2px 6px rgba(0,0,0,.08);
 }
-
-details[open] summary {
-  background: #e0e7ff;   /* accent background when open */
-}
