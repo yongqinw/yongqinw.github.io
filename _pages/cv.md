@@ -41,6 +41,8 @@ Teaching
 
 Service and leadership
 ======
+* PC for ASPLOS 2027
+* PC for HPCA 2026
 * Reviewer for HPCA 2025
 * AE committee member for ASPLOS 2025
 * AE committee member for ISCA 2024

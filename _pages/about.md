@@ -11,6 +11,8 @@ redirect_from:
 I am a PhD candidate at the University of Southern California (USC) working with [Prof. Murali Annavaram](http://scip-lab.usc.edu/). My research interests are centered around privacy preserving mechanism in the cloud setting. Specifically, I am interested in cloud applications that utilize ML models to process user data. Given the increasing prevalence of ML and the potential harm caused by data leakage from the cloud, my work aims to address these pressing concerns. I have been working on Trusted Execution Environments (**TEE**), Oblivious RAM (**ORAM**), and Multi-Party Computing (**MPC**). You can find more about my research in my [publicaton](https://yongqin2.github.io//publications/) section and my [Google Scholar](https://scholar.google.com/citations?user=DEH7pxcAAAAJ). If you are seeking collaborations in those area, please feel free to contact me at \[my first name in lower cases\] @ usc.edu !
 
 # Publication Summary
+- **\[HPCA'26\]** Joongun Park, **Yongqin Wang**, Huan Xu, Hanjiang Wu, Mengyuan Li, Tushar Krishna, "SCALE: Tackling Communication Bottlenecks in Confidential Distributed Machine Learning". \[[link](https://yongqinw.github.io/publications/2026-03-01-scale)\]
+
 - **\[PETS'25\]** Christopher HK, **Yongqin Wang**, Rachit Rajat, Georg Carle, Murali Annavaram
 , "PIGEON: A High Throughput Framework for Private Inference of Neural Networks using Secure Multiparty Computation". \[[link](https://yongqinw.github.io/publications/2025-07-15-pigeon)\]
 
