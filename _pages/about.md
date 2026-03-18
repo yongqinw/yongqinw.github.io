@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the University of Southern California (USC) working with [Prof. Murali Annavaram](http://scip-lab.usc.edu/). My research interests are centered around privacy preserving mechanism in the cloud setting. Specifically, I am interested in cloud applications that utilize ML models to process user data. Given the increasing prevalence of ML and the potential harm caused by data leakage from the cloud, my work aims to address these pressing concerns. I have been working on Trusted Execution Environments (**TEE**), Oblivious RAM (**ORAM**), and Multi-Party Computing (**MPC**). You can find more about my research in my [publicaton](https://yongqin2.github.io//publications/) section and my [Google Scholar](https://scholar.google.com/citations?user=DEH7pxcAAAAJ). If you are seeking collaborations in those area, please feel free to contact me at \[my first name in lower cases\] @ usc.edu !
+I am a PhD candidate at the University of Southern California (USC) working with [Prof. Murali Annavaram](http://scip-lab.usc.edu/). My research interests are centered around privacy preserving mechanisms in the cloud setting. Specifically, I am interested in cloud applications that utilize ML models to process user data. Given the increasing prevalence of ML and the potential harm caused by data leakage from the cloud, my work aims to address these pressing concerns.
+
+I have been working on Trusted Execution Environments (**TEE**), Oblivious RAM (**ORAM**), and Multi-Party Computing (**MPC**). You can find more about my research in my [publications](https://yongqinw.github.io/publications/) section and my [Google Scholar](https://scholar.google.com/citations?user=DEH7pxcAAAAJ). If you are seeking collaborations in those areas, please feel free to contact me at \[my first name in lower cases\] @ usc.edu !
 
 # Publication Summary
 - **\[HPCA'26\]** Joongun Park, **Yongqin Wang**, Huan Xu, Hanjiang Wu, Mengyuan Li, Tushar Krishna, "SCALE: Tackling Communication Bottlenecks in Confidential Distributed Machine Learning". \[[link](https://yongqinw.github.io/publications/2026-03-01-scale)\]
@@ -23,7 +25,7 @@ I am a PhD candidate at the University of Southern California (USC) working with
 - **\[ISCA'23\]** **Yongqin Wang**\*, Rachit Rajat\*, Murali Annavaram, "LAORAM: A Look Ahead ORAM Architecture for Training Large Embedding Tables". \[[link](https://yongqinw.github.io/publications/2023-06-19-pageoram)\]
 - **\[MICRO'22\]** Rachit Rajat, **Yongqin Wang**, Murali Annavaram, "PageORAM: An Efficient DRAM Page Aware ORAM Strategy". \[[link](https://yongqinw.github.io/publications/2022-10-01-pageoram)\]
 - **\[ISPASS'22\]** **Yongqin Wang**, Edward Suh, Wenjie Xiong, Benjamin Lefaudeux, Brian Knott, Murali Annavaram, Hsien-Hsin S. Lee "Characterization of MPC-based Private Inference for Transformer-based Models". \[[link](https://yongqinw.github.io/publications/2022-05-22-ispass)\]
-- **\[MICRO'21\]** Hanieh Hashemi, **Yongqin Wang**, Murali Annavaram, "DarKnight: An accelerated framework for privacy and integrity preserving deep learning using trusted hardware". \[[link](https://yongqinw.io/yongqin.github.io/publications/2021-10-08-darknight)\]
+- **\[MICRO'21\]** Hanieh Hashemi, **Yongqin Wang**, Murali Annavaram, "DarKnight: An accelerated framework for privacy and integrity preserving deep learning using trusted hardware". \[[link](https://yongqinw.github.io/publications/2021-10-18-darknight)\]
 - **\[ICLR'21 Workshop\]** Hanieh Hashemi, **Yongqin Wang**, Murali Annavaram, "Byzantine-Robust and Privacy-Preserving Framework for FedML". \[[link](https://yongqinw.github.io/publications/2021-05-05-byzantine)\]
 - **\[CLOUD'21\]** Krishna Giri Narra, Zhifeng Lin, **Yongqin Wang**, Keshav Balasubramanian, Murali Annavaram, "Origami inference: Private inference using hardware enclaves". \[[link](https://yongqinw.github.io/publications/2021-09-05-origami)\]
 
