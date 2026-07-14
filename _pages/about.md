@@ -22,7 +22,7 @@ I have been working on Trusted Execution Environments (**TEE**), Oblivious RAM (
 , "High-Throughput Secure Multiparty Computation with an Honest Majority in Various Network Settings". \[[link](https://yongqinw.github.io/publications/2025-07-14-heter)\]
 
 - **\[ASPLOS'24\]** **Yongqin Wang**, Rachit Rajat, Murali Annavaram, "MPC-Pipe: An Efficient Pipeline Scheme for Semi-honest MPC Machine Learning". \[[link](https://yongqinw.github.io/publications/2024-04-27-mpcpipe)\]
-- **\[ISCA'23\]** **Yongqin Wang**\*, Rachit Rajat\*, Murali Annavaram, "LAORAM: A Look Ahead ORAM Architecture for Training Large Embedding Tables". \[[link](https://yongqinw.github.io/publications/2023-06-19-pageoram)\]
+- **\[ISCA'23\]** **Yongqin Wang**\*, Rachit Rajat\*, Murali Annavaram, "LAORAM: A Look Ahead ORAM Architecture for Training Large Embedding Tables". \[[link](https://yongqinw.github.io/publications/2023-06-19-laoram)\]
 - **\[MICRO'22\]** Rachit Rajat, **Yongqin Wang**, Murali Annavaram, "PageORAM: An Efficient DRAM Page Aware ORAM Strategy". \[[link](https://yongqinw.github.io/publications/2022-10-01-pageoram)\]
 - **\[ISPASS'22\]** **Yongqin Wang**, Edward Suh, Wenjie Xiong, Benjamin Lefaudeux, Brian Knott, Murali Annavaram, Hsien-Hsin S. Lee "Characterization of MPC-based Private Inference for Transformer-based Models". \[[link](https://yongqinw.github.io/publications/2022-05-22-ispass)\]
 - **\[MICRO'21\]** Hanieh Hashemi, **Yongqin Wang**, Murali Annavaram, "DarKnight: An accelerated framework for privacy and integrity preserving deep learning using trusted hardware". \[[link](https://yongqinw.github.io/publications/2021-10-18-darknight)\]
