@@ -1,7 +1,7 @@
 ---
-title: "Co-instructor for EE 508 Hardware Fundation of Machine Learning"
+title: "Co-instructor for EE 508 Hardware Foundation of Machine Learning"
 collection: teaching
-type: "EE 508 Hardware Fundation of Machine Learning"
+type: "EE 508 Hardware Foundation of Machine Learning"
 permalink: /teaching/2023-fall-ci
 venue: "University of Southern California"
 date: 2023-08-16

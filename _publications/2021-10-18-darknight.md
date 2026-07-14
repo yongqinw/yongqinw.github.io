@@ -1,7 +1,7 @@
 ---
 title: "DarKnight: An accelerated framework for privacy and integrity preserving deep learning using trusted hardware"
 collection: publications
-permalink: /publications/2021-10-08-darknight
+permalink: /publications/2021-10-18-darknight
 excerpt:
 date: 2021-10-18
 venue: '2021 IEEE/ACM 54th International Symposium on Microarchitecture (MICRO)'
