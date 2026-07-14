@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the University of Southern California (USC) working with [Prof. Murali Annavaram](http://scip-lab.usc.edu/). My research interests are centered around privacy preserving mechanisms in the cloud setting. Specifically, I am interested in cloud applications that utilize ML models to process user data. Given the increasing prevalence of ML and the potential harm caused by data leakage from the cloud, my work aims to address these pressing concerns.
+I am a Senior Machine Learning Engineer at Roblox. I completed my PhD at the University of Southern California (USC) in 2026, advised by [Prof. Murali Annavaram](http://scip-lab.usc.edu/). My research interests are centered around privacy preserving mechanisms in the cloud setting. Specifically, I am interested in cloud applications that utilize ML models to process user data. Given the increasing prevalence of ML and the potential harm caused by data leakage from the cloud, my work aims to address these pressing concerns.
 
-I have been working on Trusted Execution Environments (**TEE**), Oblivious RAM (**ORAM**), and Multi-Party Computing (**MPC**). You can find more about my research in my [publications](https://yongqinw.github.io/publications/) section and my [Google Scholar](https://scholar.google.com/citations?user=DEH7pxcAAAAJ). If you are seeking collaborations in those areas, please feel free to contact me at \[my first name in lower cases\] @ usc.edu !
+I have been working on Trusted Execution Environments (**TEE**), Oblivious RAM (**ORAM**), and Multi-Party Computing (**MPC**). You can find more about my research in my [publications](https://yongqinw.github.io/publications/) section and my [Google Scholar](https://scholar.google.com/citations?user=DEH7pxcAAAAJ). Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yongqw).
 
 # Publication Summary
 - **\[HPCA'26\]** Joongun Park, **Yongqin Wang**, Huan Xu, Hanjiang Wu, Mengyuan Li, Tushar Krishna, "SCALE: Tackling Communication Bottlenecks in Confidential Distributed Machine Learning". \[[link](https://yongqinw.github.io/publications/2026-03-01-scale)\]
@@ -32,5 +32,8 @@ I have been working on Trusted Execution Environments (**TEE**), Oblivious RAM (
 \* Equal contributions.
 
 # Pre-prints
+- Tingting Tang, James Flemings, **Yongqin Wang**, Murali Annavaram, Differentially Private Retrieval-Augmented Generation.
+- Tingting Tang, **Yongqin Wang**, Murali Annavaram, LRD-MPC: Efficient MPC Inference through Low-rank Decomposition.
+- Jonghyun Lee, **Yongqin Wang**, Rachit Rajat, Mengyuan Li, Murali Annavaram, Characterization of GPU TEE Overheads in Distributed Data Parallel ML Training. \[[link](https://arxiv.org/abs/2501.11771)\]
 - **Yongqin Wang**, Rachit Rajat, Jonghyun Lee, Tingting Tang, Murali Annavaram, Fastrack: Fast IO for Secure ML using GPU TEEs. \[[link](https://arxiv.org/abs/2410.15240)\]
 - **Yongqin Wang**, Pratik Sarkar, Nishat Koti, Arpita Patra, Murali Annavaram, CompactTag: Minimizing Computation Overheads in Actively-Secure MPC for Deep Neural Networks. \[[link](https://eprint.iacr.org/2023/1729)\]

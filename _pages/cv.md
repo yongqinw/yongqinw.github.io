@@ -14,12 +14,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D. candidate in Computer Engineering, University of Southern California
+* Ph.D. in Computer Engineering, University of Southern California, 2026
 * M.S. in Computer Engineering, University of Southern California, 2024
 * B.S. in Electrical Engineering, University of Washington, 2019
 
 Work experience
 ======
+* Senior Machine Learning Engineer, Roblox
 * Summer & Fall 2021: Research Intern
   * Meta AI
   * Supervisor: [Hsien-Hsin S. Lee](https://hsienhsinlee.github.io/)

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yongqin Wang Homepage"
 title_separator          : "-"
 name                     : &name "Yongqin Wang"
-description              : &description "PhD candidate @ University of Southern California"
+description              : &description "Senior Machine Learning Engineer @ Roblox"
 url                      : https://yongqinw.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://yongqinw.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yongqin Wang"
   avatar           : "selfie.jpeg"
-  bio              : "PhD candidate @ University of Southern California"
+  bio              : "Senior Machine Learning Engineer @ Roblox"
   employer         :
   pubmed           : 
   linkedin         : "yongqw"
